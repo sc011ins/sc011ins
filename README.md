@@ -2,15 +2,18 @@
 
 <!--
 **sc011ins/sc011ins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+Hi! 👋 My name is Sophia Collins. I am an aerospace engineering alumna from Saint Louis University and am currently a software engineering student at the University of Nebraska-Lincoln.
+
+👾 I am interested in broadening my scope by learning coding. 🚀 In the future, I want to implement AI and machine learning 🤖 with my knowledge of aerospace. 🔭 Still looking for my passion. 
+
+- 🔭 I’m currently working on learning the basics!
+- 🌱 I’m currently learning Java.
+- 🤔 I’m looking for any beginner tips and tricks when it comes to learning coding <3.
+- 📫 How to reach me: 
+      - insta: @s.opiea_vault604
+      - email: sbonifant2@huskers.unl.edu
+      - personal email: sboni17@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I grew up on a farm with 20 dogs! 🐕
