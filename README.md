@@ -12,8 +12,8 @@ Hi! 👋 My name is Sophia Collins. I am an aerospace engineering 🌟 alumna fr
 - 🌱 I’m currently learning Java.
 - 🤔 I’m looking for any beginner tips and tricks when it comes to learning coding <3.
 - 📫 How to reach me: 
-      - insta: @s.opiea_vault604
-      - 📫 school: sbonifant2@huskers.unl.edu
-      - 📧 personal: sboni17@gmail.com
+  - insta: @s.opiea_vault604
+  - 📫 school: sbonifant2@huskers.unl.edu
+  - 📧 personal: sboni17@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I grew up on a farm with 20 dogs! 🐕🧑‍🌾
