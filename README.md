@@ -6,7 +6,7 @@
 
 Hi! 👋 My name is Sophia Collins. I am an aerospace engineering 🌟 alumna from Saint Louis University and am currently a software engineering 💻 student at the University of Nebraska-Lincoln.
 
-👾 I am interested in broadening my scope by learning coding. 🚀 In the future, I want to implement AI and machine learning 🤖 with my knowledge of aerospace. 🛸 Still looking for my passion. 
+👾 I am interested in broadening my scope by learning coding. 🚀 In the future, I want to implement AI and machine learning 🤖 with my knowledge of aerospace. 🛸 Committed to lifelong learning and discovery, I'm currently exploring different fields to find the one where I can make the most impact. 
 
 - 🔭 I’m currently working on learning the basics!
 - 🌱 I’m currently learning Java.
